@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120.19 120.78">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="213.92" y1="542.98" x2="213.92" y2="541.99" gradientTransform="translate(-25650.05 65582.86) scale(120.19 -120.78)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#335593"/>
+      <stop offset="1" stop-color="#4a90e2"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Group-2">
+      <ellipse id="Oval-Copy-5" class="cls-1" cx="60.09" cy="60.39" rx="60.09" ry="60.39"/>
+      <g id="flight-svgrepo-com-copy">
+        <path id="Path" class="cls-2" d="m62.35,37.9l.18,10.59.06.03,18.92,10.45c.8.5,1.31,1.36,1.38,2.3l.05,2.65c.04.38-.12.75-.42.98s-.69.3-1.05.17l-15.28-4.14-3.44.06.16,9.13c-.04.99-.21,1.97-.52,2.91l4.39,2.26c.81.48,1.33,1.33,1.4,2.27l.02.81c.01.86-.67,1.57-1.52,1.58l-4.79.09h-.09s-3.63.07-3.63.07h-.09s-4.79.08-4.79.08c-.85.01-1.56-.67-1.58-1.53v-.82c.02-.94.52-1.81,1.31-2.31l4.3-2.41c-.34-.93-.54-1.91-.62-2.89l-.16-9.13-3.43.06-15.13,4.67c-.35.14-.75.09-1.05-.13s-.48-.59-.45-.97l-.05-2.65c.04-.95.52-1.82,1.3-2.35l18.54-11.11.06-.03-.18-10.59c-.03-1.72,1.28-6.14,2.99-6.18,1.71-.03,3.17,4.35,3.2,6.07Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
